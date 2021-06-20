@@ -1,0 +1,6 @@
+name: DoDoDoDoSeason2Powers
+version: ${project.version}
+main: com.kopauniksoftware.dodododoseason2powers.DoDoDoDoSeason2Powers
+api-version: 1.15
+authors: [ KopaunikSoftware ]
+description: Powers for members on the DoDoDoDoSeason2
